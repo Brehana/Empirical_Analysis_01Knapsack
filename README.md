@@ -20,7 +20,7 @@ Writing Test Cases
 
 
 Experiment Results
-![test1](test1.png)
+![test1](test1.PNG)
 
 
 
