@@ -20,7 +20,7 @@ The more difficult algorithm was the brute force solution. I spent a lot of time
 
 
 
-<b>Experiment Results</b>
+<b>Experiment Results</b><br><br>
 ![test1](test1.PNG)
 ![test2](test2.PNG)
 ![test3](test3.PNG)
